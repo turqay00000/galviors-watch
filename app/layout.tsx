@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, Inter } from "next/font/google";
+// @ts-ignore
 import "./globals.css";
 import LenisSmoothScroll from "@/components/LenisSmoothScroll";
 
